@@ -27,5 +27,5 @@ No external libraries are required.
 1. **Clone or Download** the repository:
 
 ```bash
-git clone https://github.com/your-username/todo-cli-python.git
+git clone https://github.com/Mradullm/todo-cli-python.git
 cd todo-cli-python
